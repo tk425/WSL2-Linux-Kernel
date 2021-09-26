@@ -1,3 +1,10 @@
+# Updated from original msft config to add support for wireguard:
+#   * updated LOCALVERSION
+#   * set CONFIG_NETFILTER_XT_CONNMARK=y
+#   
+#   WSL2 rebuild/install instructions:
+#     https://gist.github.com/tk425/5e6f9569c839c89694d6c2c22bbf8cbf
+
 #
 # Automatically generated file; DO NOT EDIT.
 # Linux/x86 5.10.16.3 Kernel Configuration
